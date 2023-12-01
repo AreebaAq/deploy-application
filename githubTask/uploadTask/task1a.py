@@ -1,4 +1,4 @@
-[main 4d632a1] new folder and file
+[main 30640d0] new folder and file
  Committer: Ubuntu <ubuntu@ip-172-31-42-120.ec2.internal>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -12,5 +12,5 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 1 file changed, 1 insertion(+)
- create mode 100644 githubTask/uploadTask/task.py
+ 1 file changed, 16 insertions(+)
+ create mode 100644 githubTask/uploadTask/task1a.py
